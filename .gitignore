@@ -1,0 +1,26 @@
+# Project exclude paths
+/venv/
+/cn_dicts_temp/
+/cn_dicts_dazhu/
+.DS_Store
+
+**/.idea/
+.vscode/
+dist/
+*.zip
+
+build/
+sync/
+*.userdb/
+installation.yaml
+user.yaml
+*.custom.yaml
+*.custom.dict.yaml
+*private*
+
+rime_console
+rime_deployer
+rime_patch
+
+# 超大语法模型（>100MB，超 GitHub 单文件限制，不上传）
+zh-moqi.gram
