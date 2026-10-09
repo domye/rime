@@ -26,13 +26,9 @@
 
 默认方案是全拼，可以切换输入方案，也支持自然码双拼、小鹤双拼、微软双拼、搜狗双拼等双拼方案。
 
-- 符号 /fh 更多符号详见 <https://github.com/gaboolic/rime-frost/blob/master/symbols_v.yaml>
 - 带调韵母 /a /e /u 等
 - 日期与时间 rq sj xq dt ts
-- unicode字符 U
-- 数字金额大写 R
 - 农历 N
-- 计算器 V
 
 ### 如何安装&配置文件路径
 
