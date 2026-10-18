@@ -1,0 +1,58 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Mon Sep 21 00:06:20 2026"
+  rime_version: 1.17.0
+patch:
+  "preset_color_schemes/Domye":
+    author: "Mintimate <\"Mintimate's Blog\">"
+    back_color: 0xEFEFEF
+    border_color: 0xCCCCCC
+    candidate_text_color: 0x323232
+    color_space: srgb
+    comment_text_color: 0x878787
+    hilited_candidate_back_color: 9733705
+    hilited_candidate_label_color: 0xEFEFEF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_comment_text_color: 0xDFF0EE
+    hilited_label_color: 0xEFEFEF
+    hilited_text_color: 0xed9564
+    label_color: 0x323232
+    mutual_exclusive: false
+    name: Domye
+    shadow_color: 0x80000000
+    text_color: 0x7BAE4F
+    translucency: false
+  "preset_color_schemes/Domye/hilited_text_color": 9733705
+  "preset_color_schemes/Domye/text_color": 9723710
+  show_notifications: false
+  style:
+    display_tray_icon: false
+  "style/color_scheme": Domye
+  "style/comment_font_face": "雅痞-简"
+  "style/comment_font_point": 13
+  "style/font_face": "雅痞-简"
+  "style/font_point": 13
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/label_font_face": "雅痞-简"
+  "style/label_font_point": 12
+  "style/label_format": "%s."
+  "style/layout/align_type": center
+  "style/layout/baseline": 0
+  "style/layout/border_width": 1
+  "style/layout/candidate_spacing": 10
+  "style/layout/corner_radius": 5
+  "style/layout/hilite_padding_x": 6
+  "style/layout/hilite_padding_y": 6
+  "style/layout/hilite_spacing": 2
+  "style/layout/hilited_corner_radius": 5
+  "style/layout/linespacing": 0
+  "style/layout/margin_x": 10
+  "style/layout/margin_y": 10
+  "style/layout/min_width": 50
+  "style/layout/shadow_offset_x": 4
+  "style/layout/shadow_offset_y": 4
+  "style/layout/shadow_radius": 0
+  "style/layout/spacing": 2

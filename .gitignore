@@ -15,6 +15,7 @@ sync/
 installation.yaml
 user.yaml
 *.custom.yaml
+!weasel.custom.yaml
 *.custom.dict.yaml
 *private*
 
